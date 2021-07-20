@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django
 - 😄 Fun fact about me: I don't drink ~~tea~~ or ~~coffee~~ 
 - 💬 Ask me about anything [here](https://github.com/SINA-1998/SINA-1998/issues)
-- 📫 How to reach me: &nbsp;&nbsp;<a href="https://t.me/S51n4"><img alt="Sina | Telegram" height="20px" src="https://raw.githubusercontent.com/SINA-1998/SINA-1998/d4ee7c0cf119be4a1b0f9b18165cc581379c4804/assets/Telegram_logo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sinafallahnezhad76@gmail.com"><img height="20px" src="https://raw.githubusercontent.com/SINA-1998/SINA-1998/7bc08734482162ea4e9465434aaa6cad1992c652/assets/gmail-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sina-fallahnezhad-1a24591b8/"><img height="20px" src="https://github.com/SINA-1998/SINA-1998/blob/main/assets/LI-In-Bug.png?raw=true"></a>
+- 📫 How to reach me: &nbsp;&nbsp;<a href="https://t.me/S51n4"><img alt="Sina | Telegram" height="20px" src="https://raw.githubusercontent.com/SINA-1998/SINA-1998/d4ee7c0cf119be4a1b0f9b18165cc581379c4804/assets/Telegram_logo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sinafallahnezhad76@gmail.com"><img height="20px" src="https://raw.githubusercontent.com/SINA-1998/SINA-1998/7bc08734482162ea4e9465434aaa6cad1992c652/assets/gmail-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sina-fallahnezhad/"><img height="20px" src="https://github.com/SINA-1998/SINA-1998/blob/main/assets/LI-In-Bug.png?raw=true"></a>
 
 
 
